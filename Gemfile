@@ -58,3 +58,7 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
+
+gem 'devise'
+
+gem 'devise-bootstrap-views', '~> 1.0'
